@@ -92,3 +92,12 @@ with hyperbolic tangent as activation and adaptive learning rate.
 [notP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/pitch.gif 
 [neuP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zpitch.gif 
 [zP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/NeutralNormalisedpitch.gif 
+
+[ind]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/individual.gif 
+
+[cen]: https://github.com/s-abdullah/EmotionRecognition/blob/master/Images/centroid.png 
+[nb]: https://github.com/s-abdullah/EmotionRecognition/blob/master/Images/nb.png 
+[ridge]: https://github.com/s-abdullah/EmotionRecognition/blob/master/Images/ridge.png 
+[all7]: https://github.com/s-abdullah/EmotionRecognition/blob/master/Images/all7.png 
+[overall]: https://github.com/s-abdullah/EmotionRecognition/blob/master/Images/overall.png 
+
