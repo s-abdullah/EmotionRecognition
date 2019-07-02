@@ -39,10 +39,10 @@ The Neutral Normalised Pitch's that were extracted gave these plots:
 
 
 
-[notI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/intensity.png 
-[neuI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zintensity.png 
-[zI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/NeutralNormalisedintensity.png 
+[notI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/intensity.gif 
+[neuI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zintensity.gif 
+[zI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/NeutralNormalisedintensity.gif 
 
-[notP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/pitch.png 
-[neuP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zpitch.png 
-[zP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/NeutralNormalisedpitch.png 
+[notP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/pitch.gif 
+[neuP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zpitch.gif 
+[zP]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/NeutralNormalisedpitch.gif 
