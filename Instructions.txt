@@ -5,3 +5,11 @@ Extraction:
 	The features are then converted in to pandas dataframe and then plotted for ease of use
 	The first plot is regule then the Neutral normalized and lastl the Z-Score normalised
 
+
+Classification:
+	For this notebookto run, the location of the openSmile binary should be specifiec in the third code cell along with the directy reltive to current for the audio files
+	The config file to be used and its also has to be specified
+	If all the directory an files are correctly specified in the thrid code cell the code will run smoothely
+	The code first call openSMILE to get features for each file
+	It then append thes name of the files and stires the csv
+	Then it reads the stored csv and then seperates by user and performs machine learning first on regular and then on normalised data

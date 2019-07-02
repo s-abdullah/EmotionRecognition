@@ -84,6 +84,36 @@ A set of acoustic-prosodic features were extracted using the openSMILE toolkit. 
 Classifier was trained using 4 Hidden layer Perceptron for 500 iterations and stochastic gradient descent
 with hyperbolic tangent as activation and adaptive learning rate.
 
+The overall result of the Perceptron was:
+
+![alt text][overall]
+
+The average over all the speaker was:
+
+![alt text][all7]
+
+And then the one-speaker-out cross validation result was:
+
+![alt text][ind]
+
+### Additional Experiments
+Additionally, different Machine Learning algorithms were also tried to see their performance:
+
+* Naive Bayes Gaussian 
+
+![alt text][nb]
+
+* Centroid
+
+![alt text][cen]
+
+* Ridge Regression
+
+![alt text][ridge]
+
+#### Notes
+Notes:
+Even though, the overall precision for Mean Centroid and Naïve Bayes is the same as that if my final perceptron classifier, it is important to keep it mind that the individual emotion recognition was done better by the perceptron, for example of you look at “Sadness”. That is why it was chosen over the rest. Individual results for all classifiers are saved in the notebook.
 
 [notI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/intensity.gif 
 [neuI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/zintensity.gif 
