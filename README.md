@@ -78,7 +78,11 @@ lower pitch but not a low intensity.
 * It was also observed very different emotions such as Happy and Despair had similar Z-score
 normalized average values particularly for average intensity.
 
+## Classification
+A set of acoustic-prosodic features were extracted using the openSMILE toolkit. They were normalized using the same techinques as stated above. These were then used in a one-speaker-out cross validation to predict the emotion categories. For the openSMILE the "The INTERSPEECH 2009 Emotion Challenge feature set" was extracted.
 
+Classifier was trained using 4 Hidden layer Perceptron for 500 iterations and stochastic gradient descent
+with hyperbolic tangent as activation and adaptive learning rate.
 
 
 [notI]: https://github.com/s-abdullah/EmotionRecognition/blob/master/gifs/intensity.gif 

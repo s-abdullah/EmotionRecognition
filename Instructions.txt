@@ -1,0 +1,7 @@
+Extraction:
+	For the extraction notebook to work all the audio file should be in a folder name "speech_files" and in "wav" format
+	It will run smoothely as long as this folder is in the directory
+	Extraction, goes through each sound file and extract the 6 features using ParselMouth. 
+	The features are then converted in to pandas dataframe and then plotted for ease of use
+	The first plot is regule then the Neutral normalized and lastl the Z-Score normalised
+
